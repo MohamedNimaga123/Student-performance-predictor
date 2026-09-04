@@ -30,7 +30,7 @@ Because preprocessing is included in the pipeline, the web application does not 
 
 The optimized model achieved the following results on the evaluation data:
 
-Metric Score MAE 1.06 MSE 2.95 R² 0.82 Interpretation MAE = 1.06 → the predictions are off by about 1.06 grade points on average. MSE = 2.95 → measures the squared prediction error. R² = 0.82 → the model explains approximately 82% of the variance in the target variable on the evaluated data. 🛠️ Technologies 🐍 Python 🧠 Scikit-learn 🐼 Pandas 🔢 NumPy 🌐 Flask 💾 Joblib 🎨 HTML 🎨 CSS ⚡ JavaScript 📁 Project Structure student-performance/ │ ├── app.py ├── final_model.pkl ├── requirements.txt ├── README.md │ └── templates/ └── index.html ⚙️ Installation 1. Clone the repository git clone https://github.com/YOUR_USERNAME/student-performance.git 2. Enter the project directory cd student-performance 3. Create a virtual environment python -m venv venv 
+Metric Score MAE 1.06 MSE 2.95 R² 0.82 Interpretation MAE = 1.06 → the predictions are off by about 1.06 grade points on average. MSE = 2.95 → measures the squared prediction error. R² = 0.82 → the model explains approximately 82% of the variance in the target variable on the evaluated data. 🛠️ Technologies 🐍 Python 🧠 Scikit-learn 🐼 Pandas 🔢 NumPy 🌐 Flask 💾 Joblib 🎨 HTML 🎨 CSS ⚡ JavaScript 📁 Project Structure student-performance/ │ ├── app.py ├── final_model.pkl ├── requirements.txt ├── README.md │ └── templates/ └── index.html ⚙️ Installation 1. Clone the repository git clone https://github.com/MohamedNimaga123/Student-performance-predictor. Enter the project directory cd student-performance 3. Create a virtual environment python -m venv venv 
 
 Activate it on Windows:
 
