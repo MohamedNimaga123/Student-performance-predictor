@@ -1,4 +1,4 @@
-🎓 Student Performance Predictor 
+🎓 Student Performance Predictor .
 
 A Machine Learning web application that predicts a student's final academic grade (G3) based on academic, behavioral, demographic, and educational characteristics.
 
